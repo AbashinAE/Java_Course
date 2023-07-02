@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class HomeWork1 {
+public class Task01 {
     public static void main(String[] args) {
         int i = new Random().nextInt(2000);           //возвращает значение от 0 до n
         System.out.println("\n1. Случайное число от 0 до 2000 равен: " + i);
