@@ -14,6 +14,15 @@
         <module>Lessons</module>
         <module>Semminars</module>
         <module>HomeWork3</module>
+        <module>Lesson</module>
+        <module>Lesson4</module>
+        <module>Seminar2</module>
+        <module>Seminar3</module>
+        <module>Lesson2</module>
+        <module>Lesson3</module>
+        <module>Seminar4</module>
+        <module>Lesson5</module>
+        <module>HomeWork4</module>
     </modules>
 
     <properties>
