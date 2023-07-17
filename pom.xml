@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Java_Course</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>HomeWork2</module>
+        <module>HomeWork1</module>
+        <module>Lessons</module>
+        <module>Semminars</module>
+        <module>HomeWork3</module>
+        <module>Lesson</module>
+        <module>Lesson4</module>
+        <module>Seminar2</module>
+        <module>Seminar3</module>
+        <module>Lesson2</module>
+        <module>Lesson3</module>
+        <module>Seminar4</module>
+        <module>Lesson5</module>
+        <module>HomeWork4</module>
+        <module>Seminar5</module>
+        <module>Lesson6</module>
+        <module>HomeWork5</module>
+        <module>OOP_Lesson1</module>
+        <module>Seminar6</module>
+        <module>HomeWork6</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>20</maven.compiler.source>
+        <maven.compiler.target>20</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
